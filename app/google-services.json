@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "692479505810",
+    "firebase_url": "https://fireface-bc89e.firebaseio.com",
+    "project_id": "fireface-bc89e",
+    "storage_bucket": "fireface-bc89e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:692479505810:android:af5e4e4060bdd176",
+        "android_client_info": {
+          "package_name": "tomerbu.edu.fireloginwithfacebook"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "692479505810-v0tap58ibqjfu9fesk1gcmdbdojlak14.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "tomerbu.edu.fireloginwithfacebook",
+            "certificate_hash": "7A10AD770C6F4EC3BE4D27DFCD880B8519D9D87D"
+          }
+        },
+        {
+          "client_id": "692479505810-3688otlq88pdhp48rjesg56s45a2ftap.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBjA_01bv7rm-120T7rdtz2OQlI0MVRiwI"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "692479505810-3688otlq88pdhp48rjesg56s45a2ftap.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
